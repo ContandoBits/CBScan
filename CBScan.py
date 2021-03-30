@@ -18,7 +18,7 @@ print("  ||   Más Herramientas y Tutoriales en >> youtube.com/c/ContandoBits\n"
 ip=input("[+] IP Objetivo ==> ")
 nm = nmap.PortScanner()
 puertos_abiertos="-p "
-results = nm.scan(hosts=ip,arguments="-sS -n -Pn -T4")
+results = nm.scan(hosts=ip,arguments="-sT -n -Pn -T4")
 count=0
 #print (results)
 print("\nHost : %s" % ip)
