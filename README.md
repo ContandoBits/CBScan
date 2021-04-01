@@ -1,6 +1,6 @@
 # CBScan
 
-Esta herramienta esta escrita en python3 y permite realizar un rápido esceneo de puertos a cualquier host/IP a través de la herramienta NMAP. Si quieres ver como la hemos desarrollado te dejo el tutorial de YouTube 👉
+Esta herramienta esta escrita en python3 y permite realizar un rápido esceneo de puertos a cualquier host/IP a través de la herramienta NMAP. Si quieres ver como la hemos desarrollado te dejo el tutorial de YouTube 👉 https://youtu.be/zZZVCULfDXs
 
 IMPORTANTE!
 
